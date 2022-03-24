@@ -1,0 +1,27 @@
+.shop-container{
+    padding: 10px 0px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    margin-left: 200px;
+}
+
+.long img{
+    
+}
+.menu{
+    margin-right: 200px;
+}
+
+.menu a{
+    text-decoration: none;
+    margin: 10px;
+    color: #ffffff;
+}
+.menu a:hover{
+    color: orange;
+}
